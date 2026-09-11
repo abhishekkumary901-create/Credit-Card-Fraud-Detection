@@ -20,4 +20,4 @@ Logistic Regression
 - Model successfully classifies Fraud vs Non-Fraud transactions.
 
 ## Author
-Abhishek Kumar - CodSoft ML Intern
+Abhishek Kumar Yadav - CodSoft ML Intern
